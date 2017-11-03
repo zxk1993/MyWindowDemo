@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@color/colorAccent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="88dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="12dp">
+
+        <RadioButton
+            style="@style/RadioButtonStyle"/>
+        <RadioButton
+            style="@style/RadioButtonStyle"/>
+        <RadioButton
+            style="@style/RadioButtonStyle"/>
+
+    </RadioGroup>
+
+</LinearLayout>
