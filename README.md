@@ -3,7 +3,7 @@
 ### 效果
 gif图看着有点儿卡，其实实际上还是很流畅的。
 
-![这里写图片描述](http://img.blog.csdn.net/20171031105445221?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGlhb3poYW5nMTk5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](https://github.com/zxk1993/MyWindowDemo/blob/master/Gif.gif)
 
 
 ### Demo
